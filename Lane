@@ -1,0 +1,7 @@
+echo "# -script-async-src-https-www.spokeoaffiliates.com-v2-banners-get-phone-banner.js-type-howdoinohim" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Rickyl40/-script-async-src-https-www.spokeoaffiliates.com-v2-banners-get-phone-banner.js-type-howdoinohim.git
+git push -u origin main
